@@ -1,5 +1,3 @@
-# a-reproductive-resume-assignment-1
-Curriculum vitae
 Task:
 Check the attached cv template jpeg file.
 we should try to reproduce it using html & css.
